@@ -1,0 +1,2 @@
+https://github.com/deepshard/truffle-sdk-public/releases/download/v0.6.3/truffle_sdk-0.6.3-py3-none-any.whl
+pathlib>=1.0.1

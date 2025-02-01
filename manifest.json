@@ -1,0 +1,8 @@
+{
+    "description": "organizes ur loose files",
+    "example_prompts": [
+        "organize my desktop bitch"
+    ],
+    "manifest_version": 0,
+    "name": "organizer"
+}
